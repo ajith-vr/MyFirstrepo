@@ -6,5 +6,8 @@ Python
 Datascience
 Node Js
 
+Angular jS
+Express 
+
 
 Thank you
